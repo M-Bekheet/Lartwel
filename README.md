@@ -1,8 +1,7 @@
 ### Hey Hey 👋
-A professional Front-end Engineer with passion for building MERN/JavaScript apps.
+A professional Full-stack Engineer with passion for building MERN apps.
 
 
-- 🔭 I’m currently working on React & Node.
 - 👯 I’m looking to collaborate on open-source projects
 
 
@@ -28,8 +27,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-HTML5-red" alt="badge" />
   <img src="https://img.shields.io/badge/-CSS3-blue" alt="badge" />
    <img src="https://img.shields.io/badge/-Node-026e00" alt="badge" />
+   <img src="https://img.shields.io/badge/-Express-eeeeee" alt="badge" />
   <img src="https://img.shields.io/badge/-React.js-61dafb" alt="badge" />
   <img src="https://img.shields.io/badge/-Redux.js-764abc" alt="badge" />
+   <img src="https://img.shields.io/badge/-MongoDB-10aa50" alt="badge" />
   <img src="https://img.shields.io/badge/-Gatsby.js-542c85" alt="badge" />
   <img src="https://img.shields.io/badge/-Bootstrap-purple" alt="badge" />
   <img src="https://img.shields.io/badge/-MaterialUI.js-1976d2" alt="badge" />
