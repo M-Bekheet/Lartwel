@@ -1,8 +1,5 @@
 ### Hey Hey 👋
-A professional Full-stack Engineer with passion for building MERN apps.
-
-
-- 👯 I’m looking to collaborate on open-source projects
+I am a passionate Full-stack Engineer from Egypt and I’m looking to collaborate on open-source projects
 
 
 <!--
@@ -39,6 +36,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-SCSS-3fedff" alt="badge" />
   
 </p>
-
-## 💬 Ask me about anything here:
-https://web-dev.works/contact
